@@ -31,11 +31,11 @@ so , maybe I will try to create iOS version after this app is running.
 
 ## Schedule
 
-This list is what function I wil finish , the number is  sequence for coding.
+This list is what function I will finish , the number is  sequence for coding.
 
-1. Add diary in mood
-2. add diary in weather
-3. add location in diary
+1. Add  mood in diary
+2. Add  weather in diary 
+3. Add location in diary
 4. Optimized diry viewpager 
 5. Create memo
 6. Allow edit topic , diary
